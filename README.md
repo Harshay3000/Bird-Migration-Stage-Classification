@@ -63,6 +63,15 @@ Final feature set:
 - geopy
 - joblib
 
+## 📦 Data Access
+
+The full dataset is too large to include in this repository.
+
+You can download it from this Google Drive link:
+➡️ [Download Full Dataset](https://drive.google.com/drive/folders/1cOHfzNM6QEv6d_dgDom7f6TK-9Ng0xX4?usp=drive_link)
+
+
+
 Install dependencies using:
 
 ```bash
